@@ -1,0 +1,4 @@
+docs-src/.cache
+docs-src/dist
+lib
+node_modules

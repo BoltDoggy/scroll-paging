@@ -1,0 +1,6 @@
+docs
+docs-src
+node_modules
+src
+.babelrc
+.gitignore
